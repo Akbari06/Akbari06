@@ -1,7 +1,9 @@
-## Hey I'm Ishtiaque (Ish if you cant pronouce that) 👋
+## Hey I'm Ishtiaque (Ish if you can't pronounce that) 👋  
 
-• 🎓First year Computer Science and Mathematics student at The University of Manchester.
-• 🌟Strong interest in internship opportunities for Software Engineering/Development and AI.
-• Enjoy learning on the job and improving my skills through hands on experience.
+• 🎓 First-year Computer Science and Mathematics student at The University of Manchester.  
+
+• 🌟 Strong interest in internship opportunities for Software Engineering/Development and AI.  
+
+• Enjoy learning on the job and improving my skills through hands-on experience.  
 
 
