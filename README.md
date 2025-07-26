@@ -2,8 +2,6 @@
 
 • 🎓 First-year Computer Science and Mathematics student at The University of Manchester.  
 
-• 🧠 Currently a research assistant in NLP working on Fuzz search.  
-
 • 💼 You can find me on [LinkedIn](https://www.linkedin.com/in/ishtiaque-akbar/)  
 
 • 📱 I'm also on TikTok as **@mathswithish** if you want to check out my maths content!  
